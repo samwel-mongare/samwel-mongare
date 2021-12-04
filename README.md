@@ -1,6 +1,5 @@
 ![header](./gh-header.jpg)
 
-### Hi there 👋
 <h2>👋 Hi, I’m<b> Samwel Mongare (Sammy)</b></h2>
 
 - 💻: I am currently a student enrolled @Microverse 
