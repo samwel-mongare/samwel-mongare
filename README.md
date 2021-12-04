@@ -10,7 +10,6 @@
 - 🎵: My hobbies are watching tech related youtube channels and listening to songs.
 - 📫 You can reach me via mail: mongaresams@gmail.com
 </br>
-# Technologies & Tools
 
 #### Skills: 
 **JavaScript** | **ReactJS** | **HTML** | **CSS** | **Sass/SCSS** | **Node** | **npm**
