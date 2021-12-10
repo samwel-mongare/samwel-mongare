@@ -8,6 +8,8 @@
 - 💞️ I’m looking to collaborate in the building of web & mobile applications
 - 🎵: My hobbies are watching tech related youtube channels and listening to songs.
 - 📫 You can reach me via mail: mongaresams@gmail.com
+- Currently looking for new opportunities
+- I am available for hire
 </br>
 
 #### Skills: 
