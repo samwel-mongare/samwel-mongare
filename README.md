@@ -1,4 +1,6 @@
-![header](./gh-header.jpg)
+<p align="center">
+   ![header](./gh-header.jpg)
+</p>
 
 <h2>👋 Hi, I’m<b> Samwel Mongare (Sammy)</b></h2>
 
@@ -16,5 +18,7 @@
 **JavaScript** | **ReactJS** | **HTML** | **CSS** | **Sass/SCSS** | **Node** | **npm**
     
 # Github Streak Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mosams&date_format=M%20j%5B%2C%20Y%5D)]() ![Mongare's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mosams&show_icons=true&theme=radical)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mosams&date_format=M%20j%5B%2C%20Y%5D)]() 
+![Mongare's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mosams&show_icons=true&theme=radical)
 </br>
