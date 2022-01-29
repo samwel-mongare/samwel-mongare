@@ -1,6 +1,6 @@
-<p align="center">
+<span align="center">
    ![header](./gh-header.jpg)
-</p>
+</span>
 
 <h2>👋 Hi, I’m<b> Samwel Mongare (Sammy)</b></h2>
 
