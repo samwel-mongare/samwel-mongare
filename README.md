@@ -3,9 +3,8 @@
 
 <h2>👋 Hi, I’m<b> Samwel Mongare (Sammy)</b></h2>
 
-- 💻: I am currently a student enrolled @Microverse 
+- 💻: I am software engineer focusing on Full Stack Web Development.
 - 👀 My biggest interest is to help my community and the world solve problems through application development
-- 🌱 I’m constantly learning and unlearning software tools 
 - 💞️ I’m looking to collaborate in the building of web & mobile applications
 - 🎵: My hobbies are watching tech related youtube channels and listening to songs.
 - 📫 You can reach me via mail: mongaresams@gmail.com
