@@ -12,19 +12,35 @@ Hey there! I’m **Samwel Mong'are**, but you can call me **Sammy**. I’m a **f
 
 **Fun fact**: I once tried to write an app that could predict when I'd finish my projects... still waiting for accurate results 😅.
 
-### ⚙️ My Tech Arsenal
+### 💼 Professional Skills
 
-#### Front-End
-- **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black), ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-- **Frameworks**: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black), ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+#### Languages:
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+ ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 
-#### Back-End
-- **Languages**: ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white), ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-- **Frameworks**: ![Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white), ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+#### Frameworks:
+ ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+ ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) 
+ ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) 
+ ![Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
 
-#### Databases & Tools
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-- **Deployment**: ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white), ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+#### Cloud & DevOps:
+ ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) 
+ ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) 
+ ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)
+
+#### Databases:
+ ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) 
+ ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+#### Version Control:
+ ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
+ ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)
+
+#### Other Tools:
+ ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) 
+ ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)
 
 ### 🚀 Projects
 1. **[Football Fan Companion](https://github.com/samwel-mongare/football_fan_companion)** – A go-to app for football fanatics. Whether you love the Premier League or La Liga, I've got you covered.
