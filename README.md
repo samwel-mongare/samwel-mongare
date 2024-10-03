@@ -43,7 +43,7 @@ Hey there! I’m **Samwel Mong'are**, but you can call me **Sammy**. I’m a **f
  ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)
 
 ### 🎉 Fun Facts About Me:
-- I once thought I could write an entire web app in one night... turns out I’m human after all.
+- I once thought I could write an entire web app in one night... turns out I’m human after all 😅.
 - My dream job? **Becoming an astronaut developer**—coding in zero gravity. (NASA, call me! 😎)
 
 ### 📫 Reach Me
