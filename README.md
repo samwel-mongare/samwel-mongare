@@ -1,7 +1,7 @@
 
    ![header](./gh-header.jpg)
 
-# Samwel Mong'are (Sammy) - Senior Software Engineer (Web) 💻 🚀
+# Samwel Mong'are (Sammy) - Senior Software Engineer 💻 🚀
 
 [![Twitter](https://img.shields.io/badge/-@sam_mongare-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/sam_mongare)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samwel-mongare/)
