@@ -2,7 +2,7 @@
 
 ![header](./gh-header.jpg)
 
-# ⚡ My Awesome Name
+# ⚡ Samwel Mongare (Sammy)
 ### Full-Stack Engineer · Product Builder · AI-Powered Developer
 
 [![Twitter](https://img.shields.io/badge/-@my_name-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sam_mongare)
