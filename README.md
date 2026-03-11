@@ -5,7 +5,7 @@
 # ⚡ Samwel Mongare (Sammy)
 ### Full-Stack Engineer · Product Builder · AI-Powered Developer
 
-[![Twitter](https://img.shields.io/badge/-@my_name-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sam_mongare)
+[![Twitter](https://img.shields.io/badge/-@Samwel-Mongare-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sam_mongare)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samwel-mongare/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samwel-mongare)
